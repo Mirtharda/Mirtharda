@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Hello, I am Selin!
+- I am a Computer Engineering student at ITU.
+- I am learning C++ and C# simultaneously.
+- You can contact me through my email: [selinyilmaz1854@gmail.com](mailto:selinyilmaz1854@gmail.com)
